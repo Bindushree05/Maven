@@ -1,0 +1,10 @@
+Maven Project
+
+Maven Commands:
+
+1) mvn validate
+2) mvn clean
+3) mvn compile
+4) mvn test
+5) mvn package
+6) mvn install
